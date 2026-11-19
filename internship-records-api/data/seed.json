@@ -1,0 +1,38 @@
+[
+  {
+    "company": "CodeAlpha",
+    "role": "AI Engineering Intern",
+    "location": "Remote",
+    "mode": "Remote",
+    "status": "Applied",
+    "startDate": "2026-11-20",
+    "endDate": "2026-12-20",
+    "stipend": 0,
+    "applicationUrl": "https://www.codealpha.tech/",
+    "notes": "Sample record for API demonstration."
+  },
+  {
+    "company": "TechNova",
+    "role": "Full Stack Developer Intern",
+    "location": "Coimbatore",
+    "mode": "Hybrid",
+    "status": "Interview",
+    "startDate": "2026-12-01",
+    "endDate": "2027-01-01",
+    "stipend": 5000,
+    "applicationUrl": "https://example.com/internship",
+    "notes": "Fictional sample company and record."
+  },
+  {
+    "company": "BrightLabs",
+    "role": "Backend Developer Intern",
+    "location": "Bengaluru",
+    "mode": "On-site",
+    "status": "Offered",
+    "startDate": "2027-01-05",
+    "endDate": "2027-02-05",
+    "stipend": 8000,
+    "applicationUrl": null,
+    "notes": "Fictional sample record."
+  }
+]
